@@ -1,0 +1,1 @@
+console.log('Tutaj byłby kod obsługi GPS i interaktywnej mapy.');
